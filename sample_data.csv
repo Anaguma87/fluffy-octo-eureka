@@ -1,0 +1,11 @@
+id,name,category,price,in_stock,description
+1,Laptop XPS 13,Electronics,1299.99,true,"13-inch ultrabook with Intel Core i7, 16GB RAM, 512GB SSD"
+2,Wireless Headphones,Electronics,199.99,true,"Noise-cancelling wireless headphones with 30-hour battery life"
+3,Coffee Maker,Home Appliances,89.95,true,"Programmable coffee maker with 12-cup capacity"
+4,Running Shoes,Footwear,129.50,false,"Lightweight running shoes with responsive cushioning"
+5,Protein Powder,Nutrition,39.99,true,"Whey protein isolate, 2lb container, vanilla flavor"
+6,Smart Watch,Electronics,249.99,true,"Fitness tracker with heart rate monitor and GPS"
+7,Yoga Mat,Fitness,24.95,true,"Non-slip yoga mat, 6mm thickness"
+8,Desk Lamp,Home Decor,34.50,true,"Adjustable LED desk lamp with USB charging port"
+9,Backpack,Accessories,59.99,false,"Water-resistant backpack with laptop compartment"
+10,Water Bottle,Accessories,18.95,true,"Insulated stainless steel water bottle, 24oz capacity"
